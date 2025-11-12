@@ -52,7 +52,7 @@ app.listen(PORT, () => {
 });
 const allowedOrigins = [
   'http://localhost:5173',          // local dev
-  'https://your-frontend.vercel.app' // replace after Vercel deploy
+  'https://studenttttttt.netlify.app/' // replace after Vercel deploy
 ];
 
 // ✅ CORS setup
